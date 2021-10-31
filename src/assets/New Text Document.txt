@@ -1,0 +1,25 @@
+
+
+// export default {
+
+//   name: 'App',
+
+//   data() {
+//     return {
+//       description: "How to check if Image is Loaded in Vue.js or not?",
+
+//       isImageLoaded: false,
+      
+//     };
+//   },
+
+//   methods:{
+//     onImageLoad(){
+//       this.isImageLoaded = true;
+//     }
+//   }
+
+//   }
+
+
+<h2>Image Loaded :  {{isImageLoaded}}  </h2>
